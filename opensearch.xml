@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>Broadsome Media</ShortName>
+    <Description>Broadsome Media – High-impact digital growth solutions for hospitality brands. Strategy, automation, content, and performance marketing designed to convert attention into bookings.</Description>
+    <Url type="text/html" template="https://broadsomedia.agency/?q={searchTerms}"/>
+    <Image height="64" width="64" type="image/png">https://broadsomedia.agency/favicon/logo.png</Image>
+    <InputEncoding>UTF-8</InputEncoding>
+    <OutputEncoding>UTF-8</OutputEncoding>
+</OpenSearchDescription>
